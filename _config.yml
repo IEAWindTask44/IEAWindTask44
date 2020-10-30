@@ -20,6 +20,8 @@ description: [Website for IEA Wind Task 44]
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
 
+plugins:
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

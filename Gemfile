@@ -18,6 +18,7 @@ gem "github-pages", "~> 209", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 
 # If you have any plugins, put them here!
-#group :jekyll_plugins do
-#end
+group :jekyll_plugins do
+	"jekyll-include-cache"
+end
 
