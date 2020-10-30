@@ -17,7 +17,7 @@ title: IEA Wind Task 44
 title_separator: "|"
 description: [Website for IEA Wind Task 44]
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "air"
 
 plugins:
