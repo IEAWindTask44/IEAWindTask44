@@ -19,7 +19,7 @@ description: [Website for IEA Wind Task 44]
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "air"
-
+baseurl: "/IEAWindTask44"
 plugins:
   - jekyll-include-cache
 

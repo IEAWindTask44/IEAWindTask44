@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 <div style="text-align:center; padding:20px;">
-<img src="/assets/images/diagram.jpg" align="center"/>
+<img src="{{site.baseurl}}/assets/images/diagram.jpg" align="center"/>
 </div>
 
 The purpose of the proposed IEA Wind Task is to coordinate international research in the field of wind farm flow control. Technology to be considered within this Task will cover a broad range but will focus on the control algorithms and technologies, and how they translate into real-world performance gains.
